@@ -1,0 +1,98 @@
+[
+    {
+        "id":1,
+        "name":"mahabharat",
+        "title":"lorem ipsum",
+        "price":100,
+        "category": "paid",
+        "image":"https://img.freepik.com/premium-psd/3d-colorful-books_655503-1452.jpg?w=740"
+    },
+    {
+        "id":2,
+        "name":"maha",
+        "title":"lorem ipsum",
+        "price":100,
+        "category": "free",
+        "image":"https://img.freepik.com/premium-psd/3d-colorful-books_655503-1452.jpg?w=740"
+    },
+    {
+        "id":3,
+        "name":"bharat",
+        "title":"lorem ipsum",
+        "price":100,
+        "category": "story",
+        "image":"https://img.freepik.com/premium-psd/3d-colorful-books_655503-1452.jpg?w=740"
+    },
+    {
+        "id":4,
+        "name":"vasstu",
+        "title":"lorem ipsum",
+        "price":100,
+        "category": "paid",
+        "image":"https://img.freepik.com/premium-psd/3d-colorful-books_655503-1452.jpg?w=740"
+    },
+    {
+        "id":5,
+        "name":"digantar",
+        "title":"lorem ipsum",
+        "price":100,
+        "category": "paid",
+        "image":"https://img.freepik.com/premium-psd/3d-colorful-books_655503-1452.jpg?w=740"
+    },
+    {
+        "id":6,
+        "name":"trishul",
+        "title":"lorem ipsum",
+        "price":100,
+        "category": "paid",
+        "image":"https://img.freepik.com/premium-psd/3d-colorful-books_655503-1452.jpg?w=740"
+    },
+    {
+        "id":7,
+        "name":"radhe",
+        "title":"lorem ipsum",
+        "price":100,
+        "category": "paid",
+        "image":"https://img.freepik.com/premium-psd/3d-colorful-books_655503-1452.jpg?w=740"
+    },
+    {
+        "id":8,
+        "name":"govindum",
+        "title":"lorem ipsum",
+        "price":100,
+        "category": "paid",
+        "image":"https://img.freepik.com/premium-psd/3d-colorful-books_655503-1452.jpg?w=740"
+    },
+    {
+        "id":9,
+        "name":"vinayak",
+        "title":"lorem ipsum",
+        "price":100,
+        "category": "paid",
+        "image":"https://img.freepik.com/premium-psd/3d-colorful-books_655503-1452.jpg?w=740"
+    },
+    {
+        "id":10,
+        "name":"teen lok",
+        "title":"lorem ipsum",
+        "price":100,
+        "category": "paid",
+        "image":"https://img.freepik.com/premium-psd/3d-colorful-books_655503-1452.jpg?w=740"
+    },
+    {
+        "id":11,
+        "name":"Yudh",
+        "title":"lorem ipsum",
+        "price":100,
+        "category": "paid",
+        "image":"https://img.freepik.com/premium-psd/3d-colorful-books_655503-1452.jpg?w=740"
+    },
+    {
+        "id":12,
+        "name":"kal-yug",
+        "title":"lorem ipsum",
+        "price":100,
+        "category": "paid",
+        "image":"https://img.freepik.com/premium-psd/3d-colorful-books_655503-1452.jpg?w=740"
+    }
+]
